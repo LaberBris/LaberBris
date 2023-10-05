@@ -2,7 +2,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LaberBris&show_icons=true&theme=radical)
 
-[![My coding data](https://github-readme-stats.vercel.app/api/top-langs/?username=LaberBris)](https://github.com/LaberBris/LaberBris/)
+[![My coding data](https://github-readme-stats.vercel.app/api/top-langs/?username=LaberBris&theme=radical)](https://github.com/LaberBris/LaberBris/)
 
 
 <!--
