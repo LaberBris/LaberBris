@@ -13,7 +13,7 @@
     </td>
     <td>
       <a href="https://github.com/LaberBris/LaberBris/">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaberBris&theme=radical&hide_border=true" alt="My coding data" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaberBris&theme=radical&hide_border=true&layout=donut" alt="My coding data" />
       </a>
     </td>
   </tr>
