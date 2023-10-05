@@ -19,6 +19,8 @@
   </tr>
 </table>
 
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaberBris&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **LaberBris/LaberBris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
