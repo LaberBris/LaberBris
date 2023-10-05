@@ -4,7 +4,7 @@
 
 ***
 
-<table style="border: none !important;">
+<table style="border-collapse: collapse;">
   <tr>
     <td>
       <a href="https://github.com/LaberBris">
@@ -19,7 +19,10 @@
   </tr>
 </table>
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaberBris&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaberBris&theme=radical&hide_border=true" alt="My wakatime stats" />
+</a>
+
 
 
 <!--
