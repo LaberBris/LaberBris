@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=LaberBris&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My coding data](https://github-readme-stats.vercel.app/api/top-langs/?username=LaberBris)](https://github.com/LaberBris/LaberBris/)
+
 
 <!--
 **LaberBris/LaberBris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
