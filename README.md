@@ -19,9 +19,12 @@
   </tr>
 </table>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaberBris&theme=radical&hide_border=true" alt="My wakatime stats" />
-</a>
+<table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaberBris&theme=radical&hide_border=true" alt="My wakatime stats" />
+  </a>
+</table>
+
 
 
 
