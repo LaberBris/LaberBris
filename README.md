@@ -8,7 +8,7 @@
   <tr>
     <td>
       <a href="https://github.com/LaberBris">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaberBris&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="My GitHub stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaberBris&show_icons=true&theme=radical&hide_border=true&rank_icon=github&hide=contribs,issues&include_all_commits=true" alt="My GitHub stats" />
       </a>
     </td>
     <td>
@@ -18,8 +18,6 @@
     </td>
   </tr>
 </table>
-
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaberBris&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
