@@ -6,6 +6,8 @@
 
 [![My coding data](https://github-readme-stats.vercel.app/api/top-langs/?username=LaberBris&theme=radical)](https://github.com/LaberBris/LaberBris/)
 
+| <a href="https://github.com/LaberBris/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LaberBris&show_icons=true&theme=radical&hide_border=true" alt="My github stats" /></a> | <a href="https://github.com/LaberBris/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaberBris&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **LaberBris/LaberBris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
