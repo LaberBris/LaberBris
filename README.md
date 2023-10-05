@@ -8,7 +8,7 @@
   <tr>
     <td>
       <a href="https://github.com/LaberBris">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaberBris&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile" alt="My GitHub stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaberBris&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="My GitHub stats" />
       </a>
     </td>
     <td>
