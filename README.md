@@ -4,7 +4,7 @@
 
 ***
 
-<table style="border: none;">
+<table style="border: none !important;">
   <tr>
     <td>
       <a href="https://github.com/LaberBris">
