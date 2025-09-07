@@ -1,8 +1,26 @@
-## Hi there 👋
+```
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/
 
-## Welcome to my profile:heart::heart::heart:
+```
+*Hi, I am LaberBris !👋*
+*Welcome to my profile :heart::heart::heart:*
 
-***
+
+- 📫 How to reach me: wjqiu0721@qq.com
+
+
+### 🛠️ Technology Stack
+[![My Technology Stack](https://skillicons.dev/icons?i=java,py,pytorch,spring,django)](https://skillicons.dev)
 
 <table>
   <tr>
@@ -18,14 +36,6 @@
     </td>
   </tr>
 </table>
-
-<table>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaberBris&theme=radical&hide_border=true" alt="My wakatime stats" />
-  </a>
-</table>
-
-
 
 
 <!--
